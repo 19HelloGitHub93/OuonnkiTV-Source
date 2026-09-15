@@ -56,20 +56,6 @@
     "isEnabled": true
   },
   {
-    "id": "jkunzyapi-com",
-    "name": "jkun资源",
-    "url": "https://jkunzyapi.com/api.php/provide/vod",
-    "detailUrl": "https://jkunzyapi.com",
-    "isEnabled": true
-  },
-  {
-    "id": "lbapi9-com",
-    "name": "乐播资源",
-    "url": "https://lbapi9.com/api.php/provide/vod",
-    "detailUrl": "https://lbapi9.com",
-    "isEnabled": true
-  },
-  {
     "id": "Naixxzy-com",
     "name": "奶香资源",
     "url": "https://Naixxzy.com/api.php/provide/vod",

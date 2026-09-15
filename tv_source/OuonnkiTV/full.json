@@ -126,6 +126,13 @@
     "isEnabled": true
   },
   {
+    "id": "zuidazy-co",
+    "name": "最大点播",
+    "url": "https://zuidazy.me/api.php/provide/vod",
+    "detailUrl": "https://zuidazy.co",
+    "isEnabled": true
+  },
+  {
     "id": "wujinzy-com",
     "name": "无尽影视",
     "url": "https://api.wujinapi.com/api.php/provide/vod",
@@ -200,20 +207,6 @@
     "name": "大奶子",
     "url": "https://apidanaizi.com/api.php/provide/vod",
     "detailUrl": "https://apidanaizi.com",
-    "isEnabled": true
-  },
-  {
-    "id": "jkunzyapi-com",
-    "name": "jkun资源",
-    "url": "https://jkunzyapi.com/api.php/provide/vod",
-    "detailUrl": "https://jkunzyapi.com",
-    "isEnabled": true
-  },
-  {
-    "id": "lbapi9-com",
-    "name": "乐播资源",
-    "url": "https://lbapi9.com/api.php/provide/vod",
-    "detailUrl": "https://lbapi9.com",
     "isEnabled": true
   },
   {
