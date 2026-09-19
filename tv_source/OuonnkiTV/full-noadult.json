@@ -84,13 +84,6 @@
     "isEnabled": true
   },
   {
-    "id": "p2100-net",
-    "name": "飘零资源",
-    "url": "https://p2100.net/api.php/provide/vod",
-    "detailUrl": "https://p2100.net",
-    "isEnabled": true
-  },
-  {
     "id": "api-ukuapi88-com",
     "name": "U酷影视",
     "url": "https://api.ukuapi88.com/api.php/provide/vod",

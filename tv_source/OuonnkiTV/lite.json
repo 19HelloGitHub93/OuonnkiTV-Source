@@ -1,5 +1,12 @@
 [
   {
+    "id": "www-hongniuzy-com",
+    "name": "红牛资源",
+    "url": "https://www.hongniuzy2.com/api.php/provide/vod",
+    "detailUrl": "https://www.hongniuzy.com",
+    "isEnabled": true
+  },
+  {
     "id": "api-guangsuapi-com",
     "name": "光速资源",
     "url": "https://api.guangsuapi.com/api.php/provide/vod",
@@ -14,10 +21,10 @@
     "isEnabled": true
   },
   {
-    "id": "jszyapi-com",
-    "name": "极速资源",
-    "url": "https://jszyapi.com/api.php/provide/vod",
-    "detailUrl": "https://jszyapi.com",
+    "id": "www-haohuazy-com",
+    "name": "豪华资源",
+    "url": "https://hhzyapi.com/api.php/provide/vod",
+    "detailUrl": "https://www.haohuazy.com",
     "isEnabled": true
   },
   {
@@ -28,24 +35,10 @@
     "isEnabled": true
   },
   {
-    "id": "www-hongniuzy-com",
-    "name": "红牛资源",
-    "url": "https://www.hongniuzy2.com/api.php/provide/vod",
-    "detailUrl": "https://www.hongniuzy.com",
-    "isEnabled": true
-  },
-  {
-    "id": "www-haohuazy-com",
-    "name": "豪华资源",
-    "url": "https://hhzyapi.com/api.php/provide/vod",
-    "detailUrl": "https://www.haohuazy.com",
-    "isEnabled": true
-  },
-  {
-    "id": "iqiyizyapi-com",
-    "name": "爱奇艺",
-    "url": "https://iqiyizyapi.com/api.php/provide/vod",
-    "detailUrl": "https://iqiyizyapi.com",
+    "id": "jszyapi-com",
+    "name": "极速资源",
+    "url": "https://jszyapi.com/api.php/provide/vod",
+    "detailUrl": "https://jszyapi.com",
     "isEnabled": true
   },
   {
@@ -63,24 +56,10 @@
     "isEnabled": true
   },
   {
-    "id": "www-moduzy-net",
-    "name": "魔都资源",
-    "url": "https://www.mdzyapi.com/api.php/provide/vod",
-    "detailUrl": "https://www.moduzy.net",
-    "isEnabled": true
-  },
-  {
-    "id": "caiji-moduapi-cc",
-    "name": "魔都动漫",
-    "url": "https://caiji.moduapi.cc/api.php/provide/vod",
-    "detailUrl": "https://caiji.moduapi.cc",
-    "isEnabled": true
-  },
-  {
-    "id": "zuidazy-co",
-    "name": "最大点播",
-    "url": "https://zuidazy.me/api.php/provide/vod",
-    "detailUrl": "https://zuidazy.co",
+    "id": "wujinzy-com",
+    "name": "无尽影视",
+    "url": "https://api.wujinapi.com/api.php/provide/vod",
+    "detailUrl": "https://wujinzy.com",
     "isEnabled": true
   },
   {
@@ -91,17 +70,38 @@
     "isEnabled": true
   },
   {
-    "id": "p2100-net",
-    "name": "飘零资源",
-    "url": "https://p2100.net/api.php/provide/vod",
-    "detailUrl": "https://p2100.net",
+    "id": "dyttzyapi-com",
+    "name": "电影天堂",
+    "url": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+    "detailUrl": "http://caiji.dyttzyapi.com",
     "isEnabled": true
   },
   {
-    "id": "wujinzy-com",
-    "name": "无尽影视",
-    "url": "https://api.wujinapi.com/api.php/provide/vod",
-    "detailUrl": "https://wujinzy.com",
+    "id": "zuidazy-co",
+    "name": "最大点播",
+    "url": "https://zuidazy.me/api.php/provide/vod",
+    "detailUrl": "https://zuidazy.co",
+    "isEnabled": true
+  },
+  {
+    "id": "iqiyizyapi-com",
+    "name": "爱奇艺",
+    "url": "https://iqiyizyapi.com/api.php/provide/vod",
+    "detailUrl": "https://iqiyizyapi.com",
+    "isEnabled": true
+  },
+  {
+    "id": "caiji-moduapi-cc",
+    "name": "魔都动漫",
+    "url": "https://caiji.moduapi.cc/api.php/provide/vod",
+    "detailUrl": "https://caiji.moduapi.cc",
+    "isEnabled": true
+  },
+  {
+    "id": "ikunzy-com",
+    "name": "iKun资源",
+    "url": "https://ikunzyapi.com/api.php/provide/vod",
+    "detailUrl": "https://ikunzy.com",
     "isEnabled": true
   }
 ]
