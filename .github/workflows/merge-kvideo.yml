@@ -1,4 +1,4 @@
-name: Merge full-noadult + adult into kvideo-all.json
+name: cover-kvideo-all.json
 on:
   push:
     paths:
@@ -24,6 +24,6 @@ jobs:
         run: |
           git config --global user.name "AutoBot"
           git config --global user.email "bot@example.com"
-          git add tv_source/OuonnkiTV/kvideo-all.json
+          git add tv_source/KVideo/kvideo-all.json
           git commit -m "auto: update kvideo-all.json (merge full-noadult + adult)" || echo "No changes"
           git push
