@@ -1,4 +1,4 @@
-name: cover-kvideo-all.json
+name: merge-kvideo.json
 on:
   push:
     paths:
