@@ -1,0 +1,29 @@
+name: Merge full-noadult + adult into kvideo-all.json
+on:
+  push:
+    paths:
+      - tv_source/OuonnkiTV/full-noadult.json
+      - tv_source/OuonnkiTV/adult.json
+  workflow_dispatch:
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run merge script
+        run: python src/06_convert_oki2kvideo.py
+
+      - name: Commit & push kvideo-all.json
+        run: |
+          git config --global user.name "AutoBot"
+          git config --global user.email "bot@example.com"
+          git add tv_source/OuonnkiTV/kvideo-all.json
+          git commit -m "auto: update kvideo-all.json (merge full-noadult + adult)" || echo "No changes"
+          git push
